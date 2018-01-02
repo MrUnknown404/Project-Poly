@@ -1,0 +1,8 @@
+# Folders
+/lib/
+/bin/
+
+# Misc
+.classpath
+.project
+Tools.txt
