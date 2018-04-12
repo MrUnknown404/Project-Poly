@@ -1,2 +1,2 @@
 # Project-Poly
-write this later
+abandoned project
